@@ -1,6 +1,6 @@
 #!/bin/bash
-sourceFile="/usr/local/bin/sources.txt"
-addresses=`cat $sourceFile`
+sourceFile="./sources.txt"
+addresses=`cat $sourceFile | sort -R`
 
 while true
 do
