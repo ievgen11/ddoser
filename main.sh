@@ -1,5 +1,5 @@
 #!/bin/bash
-sourceFile="./sources.txt"
+sourceFile="/usr/local/bin/sources.txt"
 addresses=`cat $sourceFile | sort -R`
 
 let counter=0
