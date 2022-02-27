@@ -102,3 +102,11 @@ stories-stat.online.sberbank.ru
 content.sberdevices.ru
 catalog.prom.app.sberdevices.ru
 cdn.sberdevices.ru
+topwar.ru 
+https://lenta.ru/
+id.tinkoff.ru 
+tinkoff.ru
+https://id.tinkoff.ru/auth/step?cid=
+https://cdnhealth.www.tinkoff.ru/
+https://www.tinkoff.ru/api/common/v1/session/authorize
+
